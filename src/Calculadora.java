@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Calculadora {
 	public static void main(String[] args) {
-		Integer a=0;
+		Integer a=1;
 		Integer b=0;
 		Integer opcion;
 		Integer resultado;
